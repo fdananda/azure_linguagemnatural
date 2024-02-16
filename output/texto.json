@@ -1,0 +1,83 @@
+{
+    "documents": [
+        {
+            "id": "id__1763",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.3,
+                "neutral": 0,
+                "negative": 0.69
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.9,
+                        "neutral": 0.01,
+                        "negative": 0.08
+                    },
+                    "offset": 0,
+                    "length": 147,
+                    "text": "O Busch Gardens é um parque bastante esperando por mim e pelo Adriel, que gostamos de montanhas-russas, e nem tanto pelo Daniel pelo mesmo motivo. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.93,
+                        "negative": 0.03
+                    },
+                    "offset": 147,
+                    "length": 205,
+                    "text": "Essa era a nossa segunda vez no parque, que não fica em Orlando e sim em Tampa, e utilizamos a mesma estratégia da viagem anterior (#orlando2017 - Dia 10 - Busch Gardens) para deslocamentos, atrações etc. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 352,
+                    "length": 185,
+                    "text": "Infelizmente ele não estava tão vazio como da nossa primeira vez e tivemos que enfrentar algumas filas (especialmente na Tigris, montanha-russa muito louca e recém-inaugurada à época). ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 537,
+                    "length": 91,
+                    "text": "Por outro lado, não estava tão quente quanto em 2017, o que diminui a sensação de cansaço. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 628,
+                    "length": 105,
+                    "text": "Para conhecer detalhes sobre o parque, acesse o link da visita anterior, que descrevemos detalhadamente.  ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
